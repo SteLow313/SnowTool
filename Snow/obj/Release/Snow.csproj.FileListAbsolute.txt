@@ -1,0 +1,17 @@
+C:\Users\kraia\Desktop\SnowSRC\Snow\bin\Release\Snow.exe.config
+C:\Users\kraia\Desktop\SnowSRC\Snow\bin\Release\Snow.exe
+C:\Users\kraia\Desktop\SnowSRC\Snow\bin\Release\Snow.pdb
+C:\Users\kraia\Desktop\SnowSRC\Snow\bin\Release\Newtonsoft.Json.xml
+C:\Users\kraia\Desktop\SnowSRC\Snow\bin\Release\System.CodeDom.xml
+C:\Users\kraia\Desktop\SnowSRC\Snow\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\kraia\Desktop\SnowSRC\Snow\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kraia\Desktop\SnowSRC\Snow\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\kraia\Desktop\SnowSRC\Snow\bin\Release\Telegram.Bot.xml
+C:\Users\kraia\Desktop\SnowSRC\Snow\obj\Release\Snow.Snow.resources
+C:\Users\kraia\Desktop\SnowSRC\Snow\obj\Release\Snow.Properties.Resources.resources
+C:\Users\kraia\Desktop\SnowSRC\Snow\obj\Release\Snow.csproj.GenerateResource.cache
+C:\Users\kraia\Desktop\SnowSRC\Snow\obj\Release\Snow.csproj.CoreCompileInputs.cache
+C:\Users\kraia\Desktop\SnowSRC\Snow\obj\Release\Snow.csproj.Fody.CopyLocal.cache
+C:\Users\kraia\Desktop\SnowSRC\Snow\obj\Release\Snow.csproj.CopyComplete
+C:\Users\kraia\Desktop\SnowSRC\Snow\obj\Release\Snow.exe
+C:\Users\kraia\Desktop\SnowSRC\Snow\obj\Release\Snow.pdb
