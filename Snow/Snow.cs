@@ -1,4 +1,4 @@
-﻿using Guna.UI2.Native;
+using Guna.UI2.Native;
 using System;
 using System.Diagnostics;
 using System.Drawing;
@@ -27,7 +27,7 @@ namespace Snow
 
         private void label1_Click(object sender, EventArgs e)
         {
-            Process.Start("https://discord.gg/YUNqmMJCyb");
+            Process.Start("https://discord.com/invite/YUNqmMJCyb");
         }
 
         private void label3_Click(object sender, EventArgs e)
@@ -42,16 +42,17 @@ namespace Snow
 
         private void guna2Button1_Click(object sender, EventArgs e)
         {
-            label3.Hide();
-            guna2CustomCheckBox1.Hide();
             if (guna2CustomCheckBox1.Checked)
             {
-                Program.ShowConsole();
+                randomsHelper.ShowConsole();
             }
             else
             {
-                Program.HideConsole();
+                randomsHelper.HideConsole();
             }
+            
+            label3.Hide();
+            guna2CustomCheckBox1.Hide();
             stringsHelper.Print("Initializing...");
             if (randomsHelper.isbanned)
             {
