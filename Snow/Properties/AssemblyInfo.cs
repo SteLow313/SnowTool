@@ -4,7 +4,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Snow")]
 [assembly: AssemblyDescription("Snow SS Tool\n\nFree ScreenShare Tool")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Ste & Zedin Industries")]
+[assembly: AssemblyCompany("Ste industries")]
 [assembly: AssemblyProduct("Snow Screenshare Tool")]
 [assembly: AssemblyCopyright("Copyright ©  2022")]
 [assembly: AssemblyTrademark("")]
